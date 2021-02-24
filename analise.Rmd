@@ -1,0 +1,9 @@
+---
+title: "Pablo's PhD"
+---
+```{r}
+library(readxl)
+empresas <- read_excel("C:/Users/carlo/Dropbox/Orientações/Orientações - Doutorado/Pablo Peron/empresas.xlsx")
+View(empresas)
+
+```
